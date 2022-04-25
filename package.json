@@ -20,7 +20,7 @@
   "dependencies": {
     "@11ty/eleventy": "^0.12.1",
     "@readme/markdown": "^6.30.3",
-    "@readme/variable": "^13.5.1",
+    "@readme/variable": "^13.6.7",
     "@types/node": "^16.7.13",
     "dart-linkcheck": "^2.0.15",
     "date-fns": "^2.23.0",
