@@ -21,7 +21,7 @@
     "@11ty/eleventy": "^0.12.1",
     "@readme/markdown": "^6.30.3",
     "@readme/variable": "^13.5.1",
-    "@types/node": "^16.7.13",
+    "@types/node": "^16.11.26",
     "dart-linkcheck": "^2.0.15",
     "date-fns": "^2.23.0",
     "eleventy-plugin-youtube-embed": "^1.6.4",
