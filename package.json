@@ -19,7 +19,7 @@
   "license": "MIT",
   "dependencies": {
     "@11ty/eleventy": "^0.12.1",
-    "@readme/markdown": "^6.30.3",
+    "@readme/markdown": "^6.88.0",
     "@readme/variable": "^13.5.1",
     "@types/node": "^16.7.13",
     "dart-linkcheck": "^2.0.15",
