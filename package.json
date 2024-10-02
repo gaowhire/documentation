@@ -18,7 +18,7 @@
   "author": "Stephen Fluin",
   "license": "MIT",
   "dependencies": {
-    "@11ty/eleventy": "^0.12.1",
+    "@11ty/eleventy": "^3.0.0",
     "@readme/markdown": "^6.30.3",
     "@readme/variable": "^13.5.1",
     "@types/node": "^16.7.13",
